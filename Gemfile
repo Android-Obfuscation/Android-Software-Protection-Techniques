@@ -1,12 +1,7 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
+gem "jekyll", "~> 4.3.2"  # installed by `gem jekyll`
+# gem "webrick"           # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
-git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
-
-# gem "rails"
-
-gem "jekyll", "4.2.1"
-gem "webrick", "~> 1.7"
-gem "jekyll-seo-tag"
-gem "just-the-docs"
+gem "just-the-docs", "0.5.3"  # pinned to the current release 2023-6-17
+# gem "just-the-docs"         # always download the latest release
