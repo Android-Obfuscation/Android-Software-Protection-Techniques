@@ -33,4 +33,4 @@ This webpage does not allow uploading bypassing techniques for the presented sof
 * "Surreptitious Software: Obfuscation, Watermarking and Tampering For Software Protection" by Christian Collberg and Jasvir Nagra.
 * [OWASP MASTG](https://mas.owasp.org/MASTG/) by the OWASP Mobile Application Security (MAS) Project.
 
-<img src="/assets/images/logo.png" alt="Android Software Protection Techniques" width="500" height="600" style="vertical-align:bottom;text-align: center;">
+<img src="Android-Software-Protection-Techniques/assets/images/logo.png" alt="Android Software Protection Techniques" width="500" height="600" style="vertical-align:bottom;text-align: center;">
