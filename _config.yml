@@ -85,7 +85,7 @@ just_the_docs:
       # search_exclude: true
 
 # Build settings
-remote_theme: just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
