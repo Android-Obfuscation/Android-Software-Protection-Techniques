@@ -86,9 +86,3 @@ just_the_docs:
 
 # Build settings
 theme: just-the-docs
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
