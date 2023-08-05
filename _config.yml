@@ -29,6 +29,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 logo: "/assets/images/logo.png"
 color_scheme: light
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
+, "docs/tests/", style-guide.md
+]
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -82,7 +85,7 @@ just_the_docs:
       # search_exclude: true
 
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
