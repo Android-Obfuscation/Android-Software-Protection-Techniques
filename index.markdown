@@ -22,7 +22,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-This website is a supporting material from the paper *Android Software Protection in the Wild: A Survey*. Here the authors are trying to encourage analysts to learn about Software Protection Techniques used in the wild for Android applications, as well as for uploading newer techniques, and code snippets that document these techniques.
+This website is a supporting material from the paper *Practical Android Software Protection in the Wild*. Here the authors are trying to encourage analysts to learn about Software Protection Techniques used in the wild for Android applications, as well as for uploading newer techniques, and code snippets that document these techniques.
 
 Most of the current techniques here present are from public repositories, or collected from other resources added as references. In those cases where Reverse Engineering was applied, it was in samples from websites like [Koodous](https://koodous.com/), and no name of protection is given. Together with that, the code snippets presented are anonymized in the case, some name could be recognized since the purpose of this research is not beyond understanding what are the current techniques used to protect software.
 
